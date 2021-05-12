@@ -13,7 +13,20 @@ phi = (1 + 5 ** 0.5) / 2
 
 # Classes
 
-pass
+class var:
+    def __init__(type, content, name):
+        self.type = null
+        self.content = null
+        self.name = null
+    
+    def rename(name_3):
+        self.name = name
+    
+    def retype(type_2):
+        self.type = type
+     
+    def renter(content_1):
+        self.content = content
 
 # Functions
 
